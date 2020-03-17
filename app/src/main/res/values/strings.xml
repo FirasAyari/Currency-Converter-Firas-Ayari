@@ -1,0 +1,19 @@
+<resources>
+    <string name="usernameReg">Username</string>
+    <string name="emailReg">Email</string>
+    <string name="passwordReg">Password</string>
+    <string name="sign_upReg">Sign up</string>
+    <string name="sign_inLog">Sign in</string>
+    <string name="signin_redirect">Already a member? Sign in!</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="signup_redirect">Don\'t have an account? Register here!</string>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="twitter_consumer_key" translatable="false">NDz0Je5rsxfhorBwYahxYoSkr</string>
+    <string name="twitter_consumer_secret" translatable="false">unVdjcR24DRrmmS1zoInJFNxo0Ne4GXS92yhGLH6a2Qp97jsAy</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_title_home">Notes</string>
+    <string name="msg_no_notes">No notes found!</string>
+    <string name="lbl_new_note_title">New Note</string>
+    <string name="lbl_edit_note_title">Edit Note</string>
+    <string name="hint_enter_note">Enter your note!</string>
+</resources>
